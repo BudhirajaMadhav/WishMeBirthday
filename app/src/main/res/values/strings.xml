@@ -4,4 +4,6 @@
     <string name="create_the_card">Create The Card</string>
     <string name="nameHint">Madhav...</string>
     <string name="happy_birthday">Happy Birthday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
